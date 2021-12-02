@@ -23,4 +23,6 @@ This is a branch ready to commit and this is the message.
 7) After base allowed to merge with head of wolfsonuser, it showed option to delete wolfsonuser/hello-world but a BIGGGG warning in setting, dangerous, risky, be carefull!!!. I authorized since I can write in nelsondio. 
 8) Pending what to do with wolfsonuser/hello-world since master and patch-1 are not merged yet.
 ### ==============================
+## Wolfsonuser patch-2 pull request started.
+### follow the steps and see after commiting changes.
 

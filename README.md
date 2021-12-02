@@ -25,4 +25,7 @@ This is a branch ready to commit and this is the message.
 ### ==============================
 ## Wolfsonuser patch-2 pull request started.
 ### follow the steps and see after commiting changes.
+## ====================================
+### it merged automatically with wolsonuser master, but I did not see the fork comparison option
+### start patch-3 pull request to merge wolfsonuser as head and nelsondio master as base
 

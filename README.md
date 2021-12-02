@@ -28,4 +28,11 @@ This is a branch ready to commit and this is the message.
 ## ====================================
 ### it merged automatically with wolsonuser master, but I did not see the fork comparison option
 ### start patch-3 pull request to merge wolfsonuser as head and nelsondio master as base
+## ===========================
+### patch-4
+#### nelsondio forgot to merge request
+#### nelsondio quit  and  nothing was merged. 
+#### wolfsonuser could not reopen the pull request.
+#### wolfsonuser began new pull request after committing this
+## =====================================
 

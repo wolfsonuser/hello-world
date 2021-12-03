@@ -64,3 +64,14 @@ This is a branch ready to commit and this is the message.
 ### git branch -d something-patch-1
 ### git push origin --delete something-patch-1 //delete the branch on github too
 
+## ====================================
+### 12.03.2021 10+00 AM
+### Merge pull request command line instructions
+### Automatic merge cannot be performed or you want to test the changes first:
+1) Step 1: git checkout -b wolfsonuser-master master
+2)         git pull https://github.com/wolfsonuser/hello-world.git master
+3) Merge the changes and update to github
+3) Step 2: git checkout master 
+           git merge --no-ff wolfsonuser-master
+           git push origin master
+

@@ -40,4 +40,27 @@ This is a branch ready to commit and this is the message.
 ### TODO Edit README from VS code, commit, push to remote rep, make pull request to nelsondio
 ## ===========================
 
+## 12.03.2021
+### git clone https://github.com/somebody/something.git // rep you are interested in
+### cd into something
+### git checkout -b something-patch-1
+### make some changes or patch
+### git status
+### git add . 
+### git commit -m "Message patch-1 for instance"
+### git remote -v
+### git push origin something-patch-1
+### create pull request
+#### base rep: somebody/something.git master
+#### head rep: yourfork/something.git master
+### if your pull request is accepted you'll receive an email
+### git branch
+### git checkout master
+### git remote add upstream https://somebody/something.git
+### git fetch upstream
+### git merge upstream/master
+### git push origin master // this is your own fork synced
+### git remote rm [remote name] // you may want to keep the local
+### git branch -d something-patch-1
+### git push origin --delete something-patch-1 //delete the branch on github too
 

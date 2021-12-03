@@ -35,4 +35,9 @@ This is a branch ready to commit and this is the message.
 #### wolfsonuser could not reopen the pull request.
 #### wolfsonuser began new pull request after committing this
 ## =====================================
+## patch-5 from VS Code laptop
+### Clone repository, it asked to login with wolfsonuser and password, even though I created ed25519 keys and added to the account.
+### TODO Edit README from VS code, commit, push to remote rep, make pull request to nelsondio
+## ===========================
+
 

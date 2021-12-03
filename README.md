@@ -71,7 +71,7 @@ This is a branch ready to commit and this is the message.
 1) Step 1: git checkout -b wolfsonuser-master master
 2)         git pull https://github.com/wolfsonuser/hello-world.git master
 3) Merge the changes and update to github
-3) Step 2: git checkout master 
-           git merge --no-ff wolfsonuser-master
-           git push origin master
+4) Step 2: git checkout master 
+5)         git merge --no-ff wolfsonuser-master
+6)         git push origin master
 
